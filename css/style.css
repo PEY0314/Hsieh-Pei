@@ -4,8 +4,8 @@ body{
         background-position: center 0%;
         background-size: cover;
 	max-width: 1280px;
-	margin-right: auto;	
-	margin-left:auto;
+		
+	margin-left: 0px;
         min-width:1280px;
 }
 .clear:after{
