@@ -113,10 +113,15 @@ video{
   box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
 }
 .footer{
-	margin-top:770px;
+    margin-top:770px;
     background-color: #362e2b;
     height:100.5px;
-   width:1280px;
+    width:1280px;
+	
+    margin-right: auto;	
+    margin-left:auto;
+    background-position: center 0%;
+    min-width:1280px;   
     
 }
 /*.footer p{
