@@ -58,6 +58,10 @@ html{
 }
 .nav ul{
 	margin:0px;
+	padding-top:16px;
+        padding-left:132px;
+        padding-right:132px;
+        padding-bottom: 16px;
 }  
 .nav li{
 	list-style: none;
@@ -65,10 +69,6 @@ html{
     font-family: Arial;
     font-size: 30px;
     font-weight: bold;
-    padding-top:16px;
-    padding-left:132px;
-    padding-right:132px;
-    padding-bottom: 16px;
     /*color:#bc6161;*/
 }
 .nav a{
