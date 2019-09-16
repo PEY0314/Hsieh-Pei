@@ -59,8 +59,8 @@ html{
 .nav ul{
 	margin:0px;
 	padding-top:16px;
-        padding-left:132px;
-        padding-right:132px;
+        padding-left:100px;
+        padding-right:100px;
         padding-bottom: 16px;
 }  
 .nav li{
