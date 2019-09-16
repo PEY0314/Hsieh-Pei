@@ -57,7 +57,7 @@ html{
     border-radius: 3px;
 }
 .nav ul{
-	padding-left:132px;
+	margin:0px;
 }  
 .nav li{
 	list-style: none;
@@ -66,6 +66,7 @@ html{
     font-size: 30px;
     font-weight: bold;
     padding-top:16px;
+    padding-left:132px;
     padding-right:132px;
     padding-bottom: 16px;
     /*color:#bc6161;*/
