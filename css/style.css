@@ -58,10 +58,7 @@ html{
 }
 .nav ul{
 	margin:0px;
-	padding-top:16px;
-        padding-left:100px;
-        padding-right:100px;
-        padding-bottom: 16px;
+	
 }  
 .nav li{
 	list-style: none;
@@ -70,6 +67,10 @@ html{
     font-size: 30px;
     font-weight: bold;
     /*color:#bc6161;*/
+    padding-top:16px;
+    padding-left:100px;
+    padding-right:100px;
+    padding-bottom: 16px;
 }
 .nav a{
 	text-decoration: none;
